@@ -1,0 +1,22 @@
+# Compilados de Java y Maven
+target/
+out/
+*.class
+
+# Archivos de empaquetado generados
+*.jar
+
+# Logs y temporales
+*.log
+test*.txt
+sim_*.txt
+sources.txt
+
+# Configuración de entornos y editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
