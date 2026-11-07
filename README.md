@@ -1,4 +1,4 @@
-# 🚑 Sistema de Gestión de Emergencias Médicas
+# Sistema de Gestión de Emergencias Médicas
 > **EA2 – Concurrencia y Programación Multihilo en Java**  
 > **Institución Universitaria Digital de Antioquia (IUDigital)**
 
@@ -6,12 +6,12 @@ Simulación concurrente de un centro de emergencias médicas que gestiona llamad
 
 ---
 
-## 🎯 Objetivo de la Actividad
+## Objetivo de la Actividad
 Aplicar conceptos avanzados de concurrencia y programación multihilo en Java para desarrollar un sistema que gestione recursos compartidos en tiempo real bajo condiciones de alta presión, siguiendo el caso de estudio del Centro de Emergencias Médicas.
 
 ---
 
-## ⚙️ Requisitos del Entorno
+## Requisitos del Entorno
 
 | Herramienta | Versión recomendada |
 |-------------|---------------------|
@@ -21,7 +21,7 @@ Aplicar conceptos avanzados de concurrencia y programación multihilo en Java pa
 
 ---
 
-## 🚀 Instrucciones de Compilación y Ejecución
+## Instrucciones de Compilación y Ejecución
 
 ### Opción 1: Con Maven (Recomendada)
 1. **Compilar y empaquetar el proyecto:**
@@ -53,7 +53,7 @@ compilar_y_ejecutar.bat 10
 
 ---
 
-## 📁 Estructura Real del Proyecto
+## Estructura Real del Proyecto
 
 ```
 sa/
@@ -97,7 +97,7 @@ sa/
 
 ---
 
-## 🏗️ Arquitectura y Patrones de Concurrencia
+## Arquitectura y Patrones de Concurrencia
 
 ```
                        ┌──────────────────────┐
@@ -136,7 +136,7 @@ sa/
 
 ---
 
-## 🔒 Mecanismos de Sincronización y Prevención de Problemas
+## Mecanismos de Sincronización y Prevención de Problemas
 
 | Mecanismo Técnico | Dónde se usa | Problema de concurrencia que previene |
 |-------------------|--------------|---------------------------------------|
@@ -152,7 +152,7 @@ sa/
 
 ---
 
-## 📊 Demostración en Video (Puntos Clave para la Exposición)
+## Demostración en Video (Puntos Clave para la Exposición)
 
 Al grabar el video explicativo de 10–15 minutos, se recomienda demostrar:
 1. **Inicio de la simulación:** Explicar el inicio de los hilos de operadores, despachadores y monitor.
@@ -165,7 +165,7 @@ Al grabar el video explicativo de 10–15 minutos, se recomienda demostrar:
 
 ---
 
-## 👥 Integrantes del Equipo
+## Integrantes del Equipo
 
 | Nombre Completo | Documento / ID | Modalidad | Contribución Principal |
 |-----------------|----------------|-----------|------------------------|
